@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "tech",
+    "price": 29.99,
+    "userId": 101
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "category": "sports",
+    "price": 89.99,
+    "userId": 102
+  }
+]
